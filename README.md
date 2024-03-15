@@ -22,3 +22,5 @@
 
 
 ## Демонстрация
+-- Опредение четного числа:
+[![asciicast](https://asciinema.org/a/qebn3w1p1FFcdJZrCw7mpujHH.svg)](https://asciinema.org/a/qebn3w1p1FFcdJZrCw7mpujHH)
