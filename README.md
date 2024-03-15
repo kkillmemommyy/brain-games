@@ -4,7 +4,7 @@
 ### CodeClimate status:
 [![Maintainability](https://api.codeclimate.com/v1/badges/eb299809990f57077da4/maintainability)](https://codeclimate.com/github/kkillmemommyy/frontend-project-44/maintainability)
 
------------------------------------------------------------------------------------
+---
 
 ### Описание пакета:
 «Игры разума» — набор из пяти консольных игр.
