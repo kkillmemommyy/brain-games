@@ -1,11 +1,8 @@
-import getRandomIntInclusive from '../getRandomIntInclusive.js';
-import { add, sub, mul } from '../operators.js';
+import getRandomIntInclusive from '../utils/getRandomIntInclusive.js';
+import { add, sub, mul } from '../utils/operators.js';
 
-const LEFT_BORDER1 = 1;
-const RIGHT_BORDER1 = 30;
-
-const LEFT_BORDER2 = 1;
-const RIGHT_BORDER2 = 30;
+const [LEFT_BORDER1, RIGHT_BORDER1] = [1, 30];
+const [LEFT_BORDER2, RIGHT_BORDER2] = [1, 30];
 
 const OPERATORS = { '+': add, '-': sub, '*': mul };
 const minIndex = 0;

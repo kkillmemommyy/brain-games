@@ -1,7 +1,6 @@
-import getRandomIntInclusive from '../getRandomIntInclusive.js';
+import getRandomIntInclusive from '../utils/getRandomIntInclusive.js';
 
-const LEFT_BORDER = 1;
-const RIGHT_BORDER = 100;
+const [LEFT_BORDER, RIGHT_BORDER] = [1, 100];
 
 const getQuiz = (numbOfQuestions) => {
   const quiz = [];
