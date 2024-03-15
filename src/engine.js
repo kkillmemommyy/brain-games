@@ -10,7 +10,7 @@ const startGame = (rules, quiz) => {
     console.log(`Question: ${quesion}`);
     const userAnswer = readlineSync.question('Your answer: ');
 
-    if (userAnswer !== rightAnswer) {
+    if (Number(userAnswer) !== Number(rightAnswer)) {
       console.log(`${userAnswer} is wrong answer ;(. Correct answer was ${rightAnswer}.`);
       console.log(`Let's try again, ${userName}!`);
       return;

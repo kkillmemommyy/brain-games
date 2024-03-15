@@ -24,3 +24,6 @@
 ## Демонстрация
 - Опредение четного числа:
 [![asciicast](https://asciinema.org/a/qebn3w1p1FFcdJZrCw7mpujHH.svg)](https://asciinema.org/a/qebn3w1p1FFcdJZrCw7mpujHH)
+
+- Калькулятор. Арифметические выражения, которые необходимо вычислить:
+[![asciicast](https://asciinema.org/a/WLcrx5FfNyGIIKVco7hrUhNnx.svg)](https://asciinema.org/a/WLcrx5FfNyGIIKVco7hrUhNnx)
