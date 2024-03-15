@@ -27,3 +27,6 @@
 
 - Калькулятор. Арифметические выражения, которые необходимо вычислить:
 [![asciicast](https://asciinema.org/a/WLcrx5FfNyGIIKVco7hrUhNnx.svg)](https://asciinema.org/a/WLcrx5FfNyGIIKVco7hrUhNnx)
+
+- Определение наибольшего общего делителя.
+[![asciicast](https://asciinema.org/a/viN0QXHmAW418hcwkLcKYMadr.svg)](https://asciinema.org/a/viN0QXHmAW418hcwkLcKYMadr)
