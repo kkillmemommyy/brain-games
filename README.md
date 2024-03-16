@@ -26,8 +26,17 @@ git clone https://github.com/kkillmemommyy/brain-games.git
 cd brain-games
 ```
 
+```bash
+npm ci
+```
 
+```bash
+npm publish --dry-run
+```
 
+```bash
+sudo npm link
+```
 
 ## Демонстрация
 - Опредение четного числа:
