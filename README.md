@@ -22,6 +22,11 @@
 git clone https://github.com/kkillmemommyy/brain-games.git
 ```
 
+```bash
+cd brain-games
+```
+
+
 
 
 ## Демонстрация
