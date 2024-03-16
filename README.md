@@ -30,3 +30,6 @@
 
 - Определение наибольшего общего делителя.
 [![asciicast](https://asciinema.org/a/viN0QXHmAW418hcwkLcKYMadr.svg)](https://asciinema.org/a/viN0QXHmAW418hcwkLcKYMadr)
+
+- Прогрессия. Поиск пропущенных чисел в последовательности чисел:
+[![asciicast](https://asciinema.org/a/7TYjtnPZMjvUu1FG4NU4sTtlX.svg)](https://asciinema.org/a/7TYjtnPZMjvUu1FG4NU4sTtlX)
