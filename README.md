@@ -18,11 +18,10 @@
 
 
 ## Установка:
-1.```bash
-  git clone https://github.com/kkillmemommyy/brain-games.git
-  ```
+```bash
+git clone https://github.com/kkillmemommyy/brain-games.git
+```
 
-2.
 ```bash
 cd brain-games
 ```
@@ -37,6 +36,12 @@ npm publish --dry-run
 
 ```bash
 sudo npm link
+```
+
+или
+
+```bash
+make install
 ```
 
 ## Демонстрация
