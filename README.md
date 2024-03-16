@@ -18,6 +18,8 @@
 
 
 ## Установка:
+1. Клонировать репозиторий и зайти в папку с проектом:
+
 ```bash
 git clone https://github.com/kkillmemommyy/brain-games.git
 ```
@@ -25,6 +27,7 @@ git clone https://github.com/kkillmemommyy/brain-games.git
 ```bash
 cd brain-games
 ```
+2. Установка игр:
 
 ```bash
 npm ci
@@ -42,6 +45,27 @@ npm link
 
 ```bash
 make install
+```
+
+3. Для запуска игры нужно происать её название в консоли:
+```bash
+brain-even
+```
+
+```bash
+brain-calc
+```
+
+```bash
+brain-gcd
+```
+
+```bash
+brain-progression
+```
+
+```bash
+brain-prime
 ```
 
 ## Демонстрация
