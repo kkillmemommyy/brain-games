@@ -18,11 +18,11 @@
 
 
 ## Установка:
-```bash
+1. ```bash
 git clone https://github.com/kkillmemommyy/brain-games.git
 ```
 
-```bash
+2. ```bash
 cd brain-games
 ```
 
