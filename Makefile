@@ -1,8 +1,7 @@
-install: 
-	npm ci
-
-brain-games:
-	node bin/brain-games.js
+install:
+	npm ci 
+	npm publish --dry-run
+	npm link
 
 publish:
 	npm publish --dry-run

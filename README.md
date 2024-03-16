@@ -35,7 +35,7 @@ npm publish --dry-run
 ```
 
 ```bash
-sudo npm link
+npm link
 ```
 
 или
