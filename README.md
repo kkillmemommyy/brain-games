@@ -19,8 +19,8 @@
 
 ## Установка:
 1.```bash
-git clone https://github.com/kkillmemommyy/brain-games.git
-```
+  git clone https://github.com/kkillmemommyy/brain-games.git
+  ```
 
 2.
 ```bash
