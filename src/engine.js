@@ -6,6 +6,7 @@ const startGame = (rules, quiz) => {
   console.log(`Hello, ${userName}!`);
   console.log(rules);
 
+  /* eslint-disable-next-line */
   for (const [quesion, rightAnswer] of quiz) {
     console.log(`Question: ${quesion}`);
     const userAnswer = readlineSync.question('Your answer: ');
