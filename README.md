@@ -33,3 +33,6 @@
 
 - Прогрессия. Поиск пропущенных чисел в последовательности чисел:
 [![asciicast](https://asciinema.org/a/7TYjtnPZMjvUu1FG4NU4sTtlX.svg)](https://asciinema.org/a/7TYjtnPZMjvUu1FG4NU4sTtlX)
+
+- Определение простого числа:
+[![asciicast](https://asciinema.org/a/WjwnwS4lWbLAITCzBXXdINuPa.svg)](https://asciinema.org/a/WjwnwS4lWbLAITCzBXXdINuPa)

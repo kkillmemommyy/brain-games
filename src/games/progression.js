@@ -1,6 +1,6 @@
 import getRandomIntInclusive from '../utils/getRandomIntInclusive.js';
 
-const LENGTH = 10
+const LENGTH = 10;
 const [LEFT_BORDER1, RIGHT_BORDER1] = [-20, 20];
 const [LEFT_BORDER2, RIGHT_BORDER2] = [-200, 200];
 
