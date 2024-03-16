@@ -18,7 +18,8 @@
 
 
 ## Установка:
-Нужно заполнить
+1. ```bash git clone https://github.com/kkillmemommyy/brain-games.git```
+
 
 
 ## Демонстрация
