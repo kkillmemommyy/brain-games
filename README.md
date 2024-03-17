@@ -28,6 +28,11 @@ git clone https://github.com/kkillmemommyy/brain-games.git
 cd brain-games
 ```
 2. Установка игр:
+```bash
+make install
+```
+
+или
 
 ```bash
 npm ci --production
@@ -35,12 +40,6 @@ npm ci --production
 
 ```bash
 npm link
-```
-
-или
-
-```bash
-make install
 ```
 
 3. Для запуска игры нужно прописать её название в консоли:
@@ -62,6 +61,17 @@ brain-progression
 
 ```bash
 brain-prime
+```
+
+## Удаление:
+```bash
+make uninstall
+```
+
+или
+
+```bash
+npm uninstall --global @hexlet/code
 ```
 
 ## Демонстрация
