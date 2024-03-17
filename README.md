@@ -30,11 +30,7 @@ cd brain-games
 2. Установка игр:
 
 ```bash
-npm ci
-```
-
-```bash
-npm publish --dry-run
+npm ci --production
 ```
 
 ```bash
